@@ -1,0 +1,10 @@
+{
+  "name": "Your Name — Portfolio",
+  "description": "Portfolio of Your Name — web developer creating clean, modern websites.",
+  "request": {
+    "query": "This app was imported from GitHub repository vigneshpoojary568/MYPORTFOLIO-STATE."
+  },
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
